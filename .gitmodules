@@ -13,3 +13,6 @@
 [submodule "bundle/airline"]
 	path = bundle/airline
 	url = https://github.com/bling/vim-airline.git
+[submodule "bundle/fullscreen"]
+	path = bundle/fullscreen
+	url = https://github.com/lambdalisue/vim-fullscreen.git
