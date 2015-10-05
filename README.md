@@ -15,7 +15,7 @@ First, clone this repository to your .vim folder.
 
 Create a symbolic link to vim config file
 
-    ln -s ~/.vim/vimrc ~/.vimrc
+    ln -s ~/.vim/.vimrc ~/.vimrc
 
 Now install the plugins bundles as git submodules
 
