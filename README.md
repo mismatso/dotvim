@@ -59,7 +59,7 @@ https://github.com/scrooloose/nerdtree.git
 Full path fuzzy file, buffer, mru, tag, ... finder for Vim.
 https://github.com/kien/ctrlp.vim.git
 
- * **Ultisnips**
+* **Ultisnips**
 UltiSnips is the ultimate solution for snippets in Vim. It has tons of features and is very fast.
 https://github.com/SirVer/ultisnips.git
 
