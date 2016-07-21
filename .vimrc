@@ -1,3 +1,7 @@
+" Set encoding to UTF8
+scriptencoding utf-8
+set encoding=utf-8
+
 " Running Pathogen
 execute pathogen#infect()
 syntax on

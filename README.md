@@ -6,6 +6,11 @@ Vim is a super powerful editor, because it is relatively easy to adapt to fit yo
 
 This repository is a help to give steroids to your Vim editor. I uploaded my configuration files and pluggins (through git submodules for easy installation), with these you can convert your regular Vim on a Vim with steroids, thanks to the careful selection of a few plugins.
 
+## Installing Prerequisites
+
+You need to install Git and Vim. If you are using a GNU/Linux Debian or other GNU/Linux distro derived from Debian (like Ubuntu, Linux Mint) you can install these prerequisites with the following command.
+
+    sudo apt-get install git vim vim-nox
 
 ## Installation
 
@@ -23,7 +28,7 @@ Now install the plugins bundles as git submodules
     git submodule init
     git submodule update
 
-Then, install Pathogen to `~/.vim/autoload/pathogen.vim`.  Or copy and paste:
+Then, install Pathogen to `~/.vim/autoload/pathogen.vim`. Or copy and paste:
 
     mkdir -p ~/.vim/autoload ~/.vim/bundle && \
     curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
