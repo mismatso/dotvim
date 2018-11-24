@@ -10,7 +10,7 @@ This repository is a help to give steroids to your Vim editor. I uploaded my con
 
 You need to install Git and Vim. If you are using a GNU/Linux Debian or other GNU/Linux distro derived from Debian (like Ubuntu, Linux Mint) you can install these prerequisites with the following command.
 
-    sudo apt-get install git vim vim-nox
+    sudo apt-get install git curl vim vim-nox
 
 ## Installation
 
@@ -103,6 +103,10 @@ https://github.com/altercation/vim-colors-solarized.git
 * **Monokai**
 Monokai color scheme for Vim converted from Textmate theme with the same name
 https://github.com/sickill/vim-monokai.git
+
+* **Vinegar**
+Split windows and the project drawer go together like oil and vinegar
+https://github.com/tpope/vim-vinegar
 
 
 ## Learn how to keep your own dotfiles on GitHub

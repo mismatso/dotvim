@@ -37,3 +37,6 @@
 [submodule "fonts"]
 	path = fonts
 	url = https://github.com/powerline/fonts.git
+[submodule "bundle/vinegar"]
+	path = bundle/vinegar
+	url = https://github.com/tpope/vim-vinegar
